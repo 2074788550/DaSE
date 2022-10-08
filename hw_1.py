@@ -1,3 +1,4 @@
+#2022/10/08
 out1=[i for i in range(100) if i%2==1]
 print(out1)
 sum=1
